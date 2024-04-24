@@ -1,4 +1,4 @@
-# Hola, soy Daniel López Pérez! 👋
+# Hola, soy Daniel López! 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado de la tecnología y un entusiasta del desarrollo de software. Aquí encontrarás un poco sobre mí y mis intereses:
 
