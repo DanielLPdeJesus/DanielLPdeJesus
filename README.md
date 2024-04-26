@@ -19,5 +19,16 @@
 ## Fun Fact
 - ⚡ "Un programador es un niño creando lo que se imaginó". Me encanta esta frase porque refleja la creatividad y la libertad que tenemos como desarrolladores para dar vida a nuestras ideas.
 
+## Tecnologías:
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+</br>
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+Y alguna más...
+
 ¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o sugerencia.
 
