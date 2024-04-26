@@ -6,7 +6,7 @@
 - 👨‍💻 Actualmente estoy aprendiendo React y React Native para mejorar mis habilidades en desarrollo web y móvil.
 - 🌱 Siempre estoy buscando aprender cosas nuevas y explorar tecnologías emergentes.
 - 💼 Estoy interesado en colaborar en proyectos desafiantes y emocionantes donde pueda contribuir y seguir creciendo como desarrollador.
-- 😄 Puedes llamarme Daniel. Mis pronombres son él/su.
+- 😄 Puedes llamarme Daniel.
 - 📚 Me gusta compartir conocimientos y aprender de otros desarrolladores en la comunidad.
 
 ## Cómo contactarme
