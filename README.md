@@ -10,8 +10,8 @@
 - 📚 Me gusta compartir conocimientos y aprender de otros desarrolladores en la comunidad.
 
 ## Cómo contactarme
-- 📫 Puedes contactarme por correo electrónico: danieldejesuslopezperez859@gmail.com
-
+- 📫 Puedes contactarme LinkeDin
+  
 ## Proyectos destacados
 - 🔭 Actualmente estoy trabajando en mejorar mis habilidades en desarrollo web y móvil con proyectos personales y desafíos de programación.
 - 🚀 Estoy abierto a colaborar en proyectos interesantes. ¡No dudes en contactarme si crees que puedo ser útil para tu proyecto!
